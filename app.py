@@ -206,7 +206,7 @@ else:
                 st.markdown(
                     """
                     <h3 style='text-align:center; color:green;'>
-                    Thank You For Being Present 🙏
+                    "Good, start practising now"
                     </h3>
                     """,
                     unsafe_allow_html=True
